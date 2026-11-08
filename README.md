@@ -40,7 +40,7 @@ The market displays a **bifurcated, moderately concentrated structure at the ent
 
 ## 💻 Open-Source Renderers & Previewers
 
-Top open-source engines, UI components, and editors to preview and render OpenAPI and schema definitions locally or embedded inside your applications. Sorted in **descending order by GitHub Stars_Count**.
+Top open-source engines, UI components, and editors to preview and render OpenAPI and schema definitions locally or embedded inside your applications. Sorted in **descending order by GitHub_Stars_Count**.
 
 | Tool | GitHub_Stars | License | Key Strengths & Technical Highlights |
 |---|:---:|:---:|---|
